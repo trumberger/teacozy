@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"image",
+				"image-content"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"team",
+				"team"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bagk",
+				"background-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 476,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/style.css",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Teacozy",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Teacozy/resources",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Teacozy/resources/images"
+	],
+	"file_history":
+	[
+		"/C/Users/Tyler Rumberger/Desktop/Weekly Alert overview Accor-Fols.htm",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/MyTimes/resources/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/MyTimes/index.html",
+		"/C/Users/Tyler Rumberger/Desktop/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Broadway/index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Broadway/resources/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Broadway/resources/images/identify.svg",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/excursion/resources/css/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/excursion/index.html",
+		"/C/Users/Tyler Rumberger/Desktop/Untitled.htm",
+		"/C/Users/Tyler Rumberger/Desktop/ESS - mail test1.htm",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/DasmotosArts/resources/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/DasmotosArts/index.html",
+		"/C/Users/Tyler Rumberger/Desktop/ESS Mail Template.htm",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/BeachParadise/resources/style.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/BeachParadise/index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/DevProject/resources/css/index.css",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/DevProject/index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/TwoSandals/home.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/TwoSandals/index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/Paris/index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/HelloHtml/Index.html",
+		"/C/Users/Tyler Rumberger/OneDrive - Revel Consulting/Winter 2017/Codecademy ProIntensive/Projects/HelloWorld/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"wrap_width": 72
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teacozy.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
